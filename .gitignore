@@ -1,0 +1,10 @@
+# Chromium-generated theme caches (created when loading an unpacked theme)
+Cached Theme.pak
+
+# Temporary / trash files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*~
+.Trash-*

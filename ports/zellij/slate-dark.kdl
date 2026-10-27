@@ -1,0 +1,129 @@
+// Slate Dark
+themes {
+    slate-dark {
+        text_unselected {
+            base 221 221 218        // #ddddda
+            background 38 36 39        // #262427
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 172 157 83        // #ac9d53
+            emphasis_3 147 120 175        // #9378af
+        }
+        text_selected {
+            base 221 221 218        // #ddddda
+            background 45 42 46        // #2d2a2e
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 172 157 83        // #ac9d53
+            emphasis_3 147 120 175        // #9378af
+        }
+        ribbon_selected {
+            base 29 27 29        // #1d1b1d
+            background 125 156 175        // #7d9caf
+            emphasis_0 209 158 164        // #d19ea4
+            emphasis_1 144 195 157        // #90c39d
+            emphasis_2 201 189 110        // #c9bd6e
+            emphasis_3 29 27 29        // #1d1b1d
+        }
+        ribbon_unselected {
+            base 221 221 218        // #ddddda
+            background 61 59 63        // #3d3b3f
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 172 157 83        // #ac9d53
+            emphasis_3 155 135 161        // #9b87a1
+        }
+        table_title {
+            base 168 147 175        // #a893af
+            background 0
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 172 157 83        // #ac9d53
+            emphasis_3 147 120 175        // #9378af
+        }
+        table_cell_unselected {
+            base 221 221 218        // #ddddda
+            background 38 36 39        // #262427
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 172 157 83        // #ac9d53
+            emphasis_3 147 120 175        // #9378af
+        }
+        table_cell_selected {
+            base 221 221 218        // #ddddda
+            background 45 42 46        // #2d2a2e
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 172 157 83        // #ac9d53
+            emphasis_3 147 120 175        // #9378af
+        }
+        list_unselected {
+            base 221 221 218        // #ddddda
+            background 38 36 39        // #262427
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 172 157 83        // #ac9d53
+            emphasis_3 147 120 175        // #9378af
+        }
+        list_selected {
+            base 29 27 29        // #1d1b1d
+            background 125 156 175        // #7d9caf
+            emphasis_0 209 158 164        // #d19ea4
+            emphasis_1 144 195 157        // #90c39d
+            emphasis_2 201 189 110        // #c9bd6e
+            emphasis_3 29 27 29        // #1d1b1d
+        }
+        frame_unselected {
+            base 61 59 63        // #3d3b3f
+            background 0
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 147 120 175        // #9378af
+            emphasis_3 0
+        }
+        frame_selected {
+            base 125 156 175        // #7d9caf
+            background 0
+            emphasis_0 178 126 131        // #b27e83
+            emphasis_1 107 158 120        // #6b9e78
+            emphasis_2 147 120 175        // #9378af
+            emphasis_3 0
+        }
+        frame_highlight {
+            base 168 147 175        // #a893af
+            background 0
+            emphasis_0 155 135 161        // #9b87a1
+            emphasis_1 147 120 175        // #9378af
+            emphasis_2 178 126 131        // #b27e83
+            emphasis_3 168 147 175        // #a893af
+        }
+        exit_code_success {
+            base 107 158 120        // #6b9e78
+            background 0
+            emphasis_0 76 140 152        // #4c8c98
+            emphasis_1 221 221 218        // #ddddda
+            emphasis_2 147 120 175        // #9378af
+            emphasis_3 125 156 175        // #7d9caf
+        }
+        exit_code_error {
+            base 178 126 131        // #b27e83
+            background 0
+            emphasis_0 172 157 83        // #ac9d53
+            emphasis_1 0
+            emphasis_2 0
+            emphasis_3 0
+        }
+        multiplayer_user_colors {
+            player_1 168 147 175
+            player_2 125 156 175
+            player_3 76 140 152
+            player_4 107 158 120
+            player_5 201 189 110
+            player_6 172 157 83
+            player_7 176 148 201
+            player_8 178 126 131
+            player_9 0
+            player_10 0
+        }
+    }
+}

@@ -1,0 +1,60 @@
+# name: 'Slate'
+# url: 'something.com'
+
+[light]
+# preferred_background: ffffff
+fish_color_normal        1d1b1d
+fish_color_command       5b78a5
+fish_color_param         775c8f
+fish_color_keyword       93585e
+fish_color_quote         537b5a
+fish_color_redirection   775c8f
+fish_color_end           877541
+fish_color_comment       5c5c5c
+fish_color_error         93585e
+fish_color_gray          d0d0c8
+fish_color_selection     --background=e6e5e7
+fish_color_search_match  --background=e6e5e7
+fish_color_option        7a688d
+fish_color_operator      775c8f
+fish_color_escape        3f7474
+fish_color_autosuggestion d0d0c8
+fish_color_cancel        93585e
+fish_color_cwd           3f7474
+fish_color_user          5b78a5
+fish_color_host          5b78a5
+fish_color_host_remote   877541
+fish_color_status        93585e
+fish_pager_color_progress    d0d0c8
+fish_pager_color_prefix      775c8f
+fish_pager_color_completion  1d1b1d
+fish_pager_color_description d0d0c8
+
+[dark]
+# preferred_background: 1d1b1d
+fish_color_normal        ddddda
+fish_color_command       7d9caf
+fish_color_param         9378af
+fish_color_keyword       ab787e
+fish_color_quote         6b9e78
+fish_color_redirection   9378af
+fish_color_end           ac9d53
+fish_color_comment       9b989f
+fish_color_error         b27e83
+fish_color_gray          e1e2d5
+fish_color_selection     --background=2d2a2e
+fish_color_search_match  --background=2d2a2e
+fish_color_option        a893af
+fish_color_operator      9378af
+fish_color_escape        4c8c98
+fish_color_autosuggestion 565555
+fish_color_cancel        b27e83
+fish_color_cwd           4c8c98
+fish_color_user          7d9caf
+fish_color_host          7d9caf
+fish_color_host_remote   ac9d53
+fish_color_status        b27e83
+fish_pager_color_progress    565555
+fish_pager_color_prefix      9378af
+fish_pager_color_completion  ddddda
+fish_pager_color_description 565555

@@ -1,0 +1,112 @@
+{
+  "description": "A theme for the wicked",
+  "manifest_version": 3,
+  "name": "Slate Light",
+  "theme": {
+    "colors": {
+      "bookmark_text": [
+        29,
+        27,
+        29
+      ],
+      "button_background": [
+        243,
+        243,
+        244
+      ],
+      "frame": [
+        243,
+        243,
+        244
+      ],
+      "frame_inactive": [
+        243,
+        243,
+        244
+      ],
+      "frame_inactive_incognito": [
+        243,
+        243,
+        244
+      ],
+      "frame_incognito": [
+        243,
+        243,
+        244
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "ntp_header": [
+        179,
+        176,
+        183
+      ],
+      "ntp_text": [
+        29,
+        27,
+        29
+      ],
+      "tab_background_text": [
+        29,
+        27,
+        29
+      ],
+      "tab_text": [
+        29,
+        27,
+        29
+      ],
+      "toolbar": [
+        243,
+        243,
+        244
+      ]
+    },
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame_inactive.png",
+      "theme_frame_inactive_incognito": "images/theme_frame_inactive.png",
+      "theme_frame_incognito": "images/theme_frame.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_tab_background_incognito": "images/theme_tab_background.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "tints": {
+      "background_tab": [
+        0,
+        0,
+        0.5
+      ],
+      "buttons": [
+        0,
+        0,
+        0.5
+      ],
+      "frame": [
+        0,
+        0,
+        0.5
+      ],
+      "frame_inactive": [
+        0,
+        0,
+        0.5
+      ],
+      "frame_inactive_incognito": [
+        0,
+        0,
+        0.5
+      ],
+      "frame_incognito": [
+        0,
+        0,
+        0.5
+      ]
+    }
+  },
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.0"
+}

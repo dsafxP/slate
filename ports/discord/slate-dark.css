@@ -1,0 +1,44 @@
+/*
+ * @name Slate Dark
+ * @description A theme for the wicked
+ * @author HAZARD
+ * @version 1.0.0
+ * @website https://github.com/dsafxP/slate
+ */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+
+:root {
+  --settingsicons: 0;
+
+  --accentcolor: 172, 157, 83;
+  --accentcolor2: 168, 147, 175;
+  --linkcolor: 168, 147, 175;
+  --mentioncolor: 201, 189, 110;
+  --successcolor: 107, 158, 120;
+  --warningcolor: 172, 157, 83;
+  --dangercolor: 178, 126, 131;
+
+  --framecolor: 29, 27, 29, 0.4;
+
+  --textbrightest: 221, 221, 218;
+  --textbrighter: 225, 226, 213;
+  --textbright: 221, 222, 217;
+  --textdark: 155, 152, 159;
+  --textdarker: 117, 115, 121;
+  --textdarkest: 86, 85, 85;
+
+  --backgroundcode: 38, 36, 39;
+  --backgroundaccent: 45, 42, 46;
+  --backgroundprimary: 29, 27, 29;
+  --backgroundsecondary: 38, 36, 39;
+  --backgroundsecondaryalt: 38, 36, 39;
+  --backgroundtertiary: 45, 42, 46;
+  --backgroundfloating: 38, 36, 39;
+
+  --background-surface-highest: 45, 42, 46 !important;
+}
+
+li[class^="selected"] {
+  color: rgb(var(--accentcolor)) !important;
+}
