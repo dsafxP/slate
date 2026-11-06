@@ -87,6 +87,7 @@ Desaturated colors are easy on the eyes, while high-contrast backgrounds keep co
 - [![bat](https://img.shields.io/badge/bat-2d2a2e?style=for-the-badge)](ports/bat)
 - [![btop](https://img.shields.io/badge/btop-2d2a2e?style=for-the-badge)](ports/btop)
 - [![chromium](https://img.shields.io/badge/chromium-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](ports/chromium)
+- [![css](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)](ports/css)
 - [![discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](ports/discord)
 - [![fish](https://img.shields.io/badge/fish-2d2a2e?style=for-the-badge)](ports/fish)
 - [![fresh](https://img.shields.io/badge/fresh-2d2a2e?style=for-the-badge)](ports/fresh)
