@@ -1,0 +1,51 @@
+# Slate Light for Micro
+# https://github.com/dsafxP/slate
+
+color-link default "#1d1b1d,#ffffff"
+color-link comment "#5c5c5c"
+color-link selection "#1d1b1d,#e6e5e7"
+color-link hlsearch "#ffffff,#5b78a5"
+
+color-link identifier "#5b78a5"
+color-link identifier.class "#877541"
+color-link identifier.var "#1d1b1d"
+
+color-link constant "#7a688d"
+color-link constant.number "#7a688d"
+color-link constant.string "#537b5a"
+color-link constant.string.url "#3f7474"
+color-link constant.specialChar "#3f7474"
+
+color-link symbol "#1d1b1d"
+color-link symbol.brackets "#3a3a34"
+color-link symbol.operator "#1d1b1d"
+color-link symbol.tag "#5b78a5"
+
+color-link type "#5b78a5"
+color-link type.keyword "#93585e"
+
+color-link special "#775c8f"
+color-link preproc "#93585e"
+color-link statement "#93585e"
+
+color-link underlined "#3f7474"
+color-link error "bold #93585e"
+color-link todo "bold #537b5a"
+
+color-link diff-added "#537b5a"
+color-link diff-modified "#877541"
+color-link diff-deleted "#93585e"
+
+color-link gutter-error "#93585e"
+color-link gutter-warning "#877541"
+
+color-link scrollbar "#b8b5bc"
+color-link statusline "#1d1b1d,#f3f3f4"
+color-link tabbar "#1d1b1d,#f3f3f4"
+color-link indent-char "#b8b5bc"
+color-link line-number "#b8b5bc"
+color-link current-line-number "#3a3a34"
+
+color-link cursor-line "#f3f3f4"
+color-link color-column "#f3f3f4"
+color-link type.extended "default"
