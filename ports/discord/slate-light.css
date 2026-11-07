@@ -43,6 +43,7 @@ li[class^="selected"] {
   color: rgb(var(--accentcolor)) !important;
 }
 
-#app-mount .wrapper_f61d60 {
+#app-mount .mention[class*="wrapper_"],
+#app-mount .attachmentLink[class*="wrapper_"] {
   color: rgb(var(--backgroundprimary));
 }
