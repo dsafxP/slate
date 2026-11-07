@@ -44,6 +44,7 @@ li[class^="selected"] {
 }
 
 #app-mount .mention[class*="wrapper_"],
-#app-mount .attachmentLink[class*="wrapper_"] {
+#app-mount .attachmentLink[class*="wrapper_"],
+#app-mount .channelMention[class*="wrapper_"] {
   color: rgb(var(--backgroundprimary));
 }
