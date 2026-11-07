@@ -110,4 +110,4 @@ Desaturated colors are easy on the eyes, while high-contrast backgrounds keep co
 
 ## 📄 License
 
-Media (logos, artwork, screenshots) is dedicated to the public domain under [CC0 1.0](LICENSE-CC0). All code, themes, and configs are licensed under [MIT-0](LICENSE-MIT-0).
+Licensed under [CC0 1.0](LICENSE-CC0) OR [MIT-0](LICENSE-MIT-0), where applicable.
