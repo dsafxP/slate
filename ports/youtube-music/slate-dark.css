@@ -162,53 +162,35 @@ ytmusic-av-toggle button[aria-pressed="true"] {
   color: var(--cust-bg) !important;
   background-color: var(--cust-purple) !important;
 }
-ytmusic-player-bar {
+ytmusic-miniplayer {
+  --ytmusic-player-bar-background: var(--cust-nav-bg) !important;
+  --yt-sys-color-baseline--static-brand-red: var(--cust-purple) !important;
+  --yt-sys-color-baseline--static-magenta: var(--cust-cyan) !important;
+  --yt-sys-color-baseline--mono-tonal-hover: var(--cust-selection) !important;
+  --yt-sys-color-baseline--ten-percent-layer: var(--cust-selection) !important;
   background: var(--cust-nav-bg) !important;
+  color: var(--cust-fg) !important;
 }
-#progress-bar.ytmusic-player-bar {
-  --paper-slider-active-color: var(--cust-cyan) !important
-;
-}
-#progress-bar.ytmusic-player-bar[focused],
-ytmusic-player-bar:hover #progress-bar.ytmusic-player-bar {
-  --paper-slider-knob-color: var(--cust-cyan) !important;
-  --paper-slider-knob-start-color: var(--cust-cyan) !important;
-  --paper-slider-knob-start-border-color: var(--cust-cyan) !important
-;
-}
-.expand-volume-slider.ytmusic-player-bar,
-.volume-slider.ytmusic-player-bar,
-paper-slider#volume-slider {
-  --paper-slider-container-color: var(--cust-selection) !important;
-  --paper-slider-active-color: var(--cust-green) !important;
-  --paper-slider-knob-color: var(--cust-green) !important
-;
-}
-span#hover-time-info.style-scope.ytmusic-player-bar {
+.ytmusicTrackInfoTitle {
   color: var(--cust-text) !important;
-  background-color: var(--cust-bg) !important;
 }
-span.time-info.style-scope.ytmusic-player-bar {
+.ytmusicTrackInfoBylineItem,
+.ytMusicMiniPlayerTimeInfo {
+  color: var(--cust-muted) !important;
+}
+.ytmusicPlayerControlsControlButton button {
   color: var(--cust-text) !important;
-  background-color: var(--cust-bg) !important;
 }
-paper-icon-button#play-pause-button,
-tp-yt-iron-icon#icon {
-  --iron-icon-fill-color: var(--cust-purple) !important
-;
+.ytmusicPlayerControlsPlayPauseButton button {
+  background-color: var(--cust-purple) !important;
+  color: var(--cust-bg) !important;
 }
-.left-controls.ytmusic-player-bar .spinner-container.ytmusic-player-bar,
-.left-controls.ytmusic-player-bar paper-icon-button.ytmusic-player-bar,
-.menu.ytmusic-player-bar,
-.toggle-player-page-button.ytmusic-player-bar {
-  --iron-icon-fill-color: var(--cust-fg) !important
-;
+.ytMusicMiniPlayerMuteButton button,
+.ytMusicMiniPlayerMenuButton button {
+  color: var(--cust-text) !important;
 }
-.right-controls-buttons.ytmusic-player-bar paper-icon-button.ytmusic-player-bar,
-ytmusic-player-expanding-menu.ytmusic-player-bar
-  paper-icon-button.ytmusic-player-bar {
-  --paper-icon-button_-_color: var(--cust-fg) !important
-;
+segmented-like-dislike-button-view-model {
+  color: var(--cust-text) !important;
 }
 .style-scope.yt-icon-button[aria-label="Add to playlist"] {
   color: var(--cust-fg);
@@ -333,19 +315,6 @@ ytmusic-play-button-renderer:hover
 .dropdown-content,
 .ytmusicMultiPageMenuRendererHost {
   background-color: var(--cust-bg) !important;
-}
-.left-controls.ytmusic-player-bar .spinner-container.ytmusic-player-bar,
-.left-controls.ytmusic-player-bar paper-icon-button.ytmusic-player-bar,
-.toggle-player-page-button.ytmusic-player-bar,
-paper-icon-button#play-pause-button {
-  --iron-icon-fill-color: var(--cust-text) !important
-;
-}
-.right-controls-buttons.ytmusic-player-bar paper-icon-button.ytmusic-player-bar,
-ytmusic-player-expanding-menu.ytmusic-player-bar
-  paper-icon-button.ytmusic-player-bar {
-  --paper-icon-button_-_color: var(--cust-text) !important
-;
 }
 .play-button .yt-spec-button-shape-next__icon > yt-icon,
 .radio-button .yt-spec-button-shape-next__icon > yt-icon,
@@ -484,7 +453,6 @@ ytmusic-menu-service-item-download-renderer .primary-entry-icon .yt-icon-shape {
   color: var(--cust-purple) !important;
 }
 yt-formatted-string#description.description.style-scope.ytmusic-detail-header-renderer,
-yt-formatted-string.title.style-scope.ytmusic-player-bar,
 yt-formatted-string.title.style-scope.ytmusic-two-row-item-renderer {
   color: var(--cust-text) !important;
 }
@@ -643,9 +611,6 @@ ytd-multi-page-menu-renderer.style-scope.ytmusic-popup-container {
 }
 yt-formatted-string.style-scope.ytmusic-menu-service-item-download-renderer {
   color: var(--cust-text) !important;
-}
-ytmusic-player-expanding-menu#expanding-menu.style-scope.ytmusic-player-bar {
-  background-color: var(--cust-selection) !important;
 }
 yt-formatted-string.text.style-scope.ytmusic-toggle-menu-service-item-renderer {
   color: var(--cust-text) !important;
