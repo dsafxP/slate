@@ -6,8 +6,8 @@ color-link comment "#9b989f"
 color-link selection "#ddddda,#2d2a2e"
 color-link hlsearch "#1d1b1d,#7d9caf"
 
-color-link identifier "#7d9caf"
-color-link identifier.class "#ac9d53"
+color-link identifier "#ddddda"
+color-link identifier.class "#7d9caf"
 color-link identifier.var "#ddddda"
 
 color-link constant "#a893af"
@@ -24,7 +24,7 @@ color-link symbol.tag "#7d9caf"
 color-link type "#7d9caf"
 color-link type.keyword "#b27e83"
 
-color-link special "#9378af"
+color-link special "#a893af"
 color-link preproc "#b27e83"
 color-link statement "#b27e83"
 
