@@ -164,7 +164,7 @@ ytmusic-av-toggle button[aria-pressed="true"] {
 }
 ytmusic-miniplayer {
   --ytmusic-player-bar-background: var(--cust-nav-bg) !important;
-  --yt-sys-color-baseline--static-brand-red: var(--cust-purple) !important;
+  --yt-sys-color-baseline--static-brand-red: var(--cust-cyan) !important;
   --yt-sys-color-baseline--static-magenta: var(--cust-cyan) !important;
   --yt-sys-color-baseline--mono-tonal-hover: var(--cust-selection) !important;
   --yt-sys-color-baseline--ten-percent-layer: var(--cust-selection) !important;
